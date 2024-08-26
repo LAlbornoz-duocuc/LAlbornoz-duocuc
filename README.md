@@ -22,10 +22,10 @@ Soy Ingeniero en Informática con más de cinco años de experiencia en la indus
 ## 🎓 Educación
 
 - **Diplomatura en Seguridad de la Información** - Duoc UC (Dic 2020 - Abr 2021)  
-  Estudio enfocado en la administración de bases de datos y seguridad informática.
+  Estudio enfocado en el hacking ético y seguridad de la informática.
 
 - **Ingeniería Informática** - Duoc UC (Mar 2015 - Dic 2019)  
-  Participación activa en actividades extracurriculares como el grupo de volleyball, mientras se especializaba en tecnologías como MySQL y PHP.
+  Participación activa en actividades extracurriculares como el grupo de volleyball, mientras se especializaba en tecnologías como C#, JAVA, PHP, MySQL y SQL Server.
 
 ## 🌐 Habilidades
 
