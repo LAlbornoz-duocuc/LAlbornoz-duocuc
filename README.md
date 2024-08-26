@@ -5,7 +5,7 @@ Soy Ingeniero en Informática con más de cinco años de experiencia en la indus
 ## 💼 Experiencia Profesional
 
 - **Ingeniero de software en Agilesoft** (Jul 2024 - Actualidad)  
-  Trabajando en proyectos de software enfocados en soluciones eficientes y escalables, utilizando principalmente tecnologías de backend como .NET Core y C#.
+   Actualmente trabajo en modalidad de outsourcing para Tisal, formando parte de una célula de seguridad. Estoy encargado de identificar y solucionar vulnerabilidades de código en proyectos desarrollados con .NET.
 
 - **Analista de sistema en Fedok - Firma Electrónica Online** (Feb 2022 - May 2024)  
   Responsable de desarrollar y mantener sistemas utilizando tecnologías como .NET Core y HTML5.
