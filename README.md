@@ -32,7 +32,7 @@ Soy Ingeniero en Informática con más de cinco años de experiencia en la indus
 - **Backend:** .NET Core, C#, typescript,PHP
 - **Frontend:** HTML5, Angular, JavaScript, Bootstrap, Ionic
 - **Bases de datos:** MySQL, SQL Server, MongoDB
-- **Otros:** concimiento en rabbitMQ, Patrones de diseño, Clean Code, Desarrollo de aplicaciones móviles con Ionic y Angular
+- **Otros:** concimiento en rabbitMQ, Conocimiento en docker,Patrones de diseño, Clean Code, Desarrollo de aplicaciones móviles con Ionic y Angular
 
 ## 🤝 Estoy buscando colaborar en...
 
